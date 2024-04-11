@@ -11,7 +11,9 @@ Reprositório para armanezar resumos de Git e Githuba do curso Versionamento de 
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações de repositório local | [Resumos]() |
+| Aula 01 | [Resumos]() |
+| Aula 02 | [Resumos]() |
+
 
 
 ```
